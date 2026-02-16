@@ -127,7 +127,7 @@ export function Footer() {
           </div>
         </div>
 
-        <div className="flex flex-col gap-1 text-center text-sm text-slate-500">
+        <div className="flex flex-col gap-2 text-center text-sm text-slate-500">
           <div>
             @ 2026Anandhan Borewell Drilling. All right reserved.
           </div>
