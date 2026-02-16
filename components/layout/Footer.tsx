@@ -127,8 +127,16 @@ export function Footer() {
           </div>
         </div>
 
-        <div className="text-center text-sm text-slate-500">
-          @ 2026Anandhan Borewell Drilling. All right reserved.
+        <div className="flex flex-col gap-1 text-center text-sm text-slate-500">
+          <div>
+            @ 2026Anandhan Borewell Drilling. All right reserved.
+          </div>
+          <span >
+            Developed By{" "}
+            <Link href="https://spicycodez.netlify.app/" target="_black" className="hover:text-[#FFC107] transition-colors">
+              SpicyCodeZ
+            </Link>{" "}
+          </span>
         </div>
       </div>
     </footer>
